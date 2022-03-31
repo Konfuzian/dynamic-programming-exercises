@@ -11,9 +11,10 @@ The code exercises are based on this [Youtube lesson](https://www.youtube.com/wa
 
 ## Installation
 
-_You will probably want to create a virtual environment before running this._
+You will probably want to create a virtual environment for this.
 
 ```
+mkvirtualenv dynamic-programming-exercises
 pip install -r requirements.txt
 jupyter notebook "Dynamic Programming Exercises.ipynb"
 ```
